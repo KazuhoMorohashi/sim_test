@@ -1,5 +1,3 @@
 12345
 67890
-this is b1
-this is b2
-this is b3
+hello
