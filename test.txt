@@ -1,7 +1,5 @@
 12345
 67890
-<<<<<<< HEAD
 this is b1
-=======
 this is b2
->>>>>>> b2
+this is b3
